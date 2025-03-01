@@ -1,0 +1,41 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+background-color: #83997F;
+}
+
+.logo{
+    height: 150%;
+    width: 150%;
+    padding-left: 80%;
+    padding-bottom: 3%;
+    padding-right: 5%;
+}
+
+.logotexto{
+    font-family: Italiana;
+    text-align: center;
+    font-size: 175%;
+    line-height: 100%;
+    letter-spacing: 3px;
+    align-content: center;
+    color: #FFB48A;
+}
+
+strong{
+    font-size: 125%;
+    opacity: 50%;
+}
+
+.linkbarra{
+    color:#FFB48A;
+}
+
+.letralogo{
+    justify-content:center;
+    height: 100%;
+    width: 100%; 
+}
